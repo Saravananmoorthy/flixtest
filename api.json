@@ -1,0 +1,419 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "/gFZriCkpJYsApPZEF3jhxL4yLzG.jpg",
+      "first_air_date": "2017-05-02",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 71446,
+      "name": "Money Heist",
+      "origin_country": [
+        "ES"
+      ],
+      "original_language": "es",
+      "original_name": "La Casa de Papel",
+      "overview": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+      "popularity": 1768.236,
+      "poster_path": "/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+      "vote_average": 8.3,
+      "vote_count": 15507
+    },
+    {
+      "backdrop_path": "/qw3J9cNeLioOLoR68WX7z79aCdK.jpg",
+      "first_air_date": "2021-09-17",
+      "genre_ids": [
+        10759,
+        9648,
+        18
+      ],
+      "id": 93405,
+      "name": "Squid Game",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "오징어 게임",
+      "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games—with high stakes. But, a tempting prize awaits the victor.",
+      "popularity": 1140.708,
+      "poster_path": "/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg",
+      "vote_average": 7.8,
+      "vote_count": 9388
+    },
+    {
+      "backdrop_path": "/bfXTYu3oLtEUL0jAxgx7Jy56yHl.jpg",
+      "first_air_date": "2021-11-19",
+      "genre_ids": [
+        18,
+        80,
+        9648,
+        10765
+      ],
+      "id": 106651,
+      "name": "Hellbound",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "지옥",
+      "overview": "Unearthly beings deliver bloody condemnations, sending individuals to hell and giving rise to a religious group founded on the idea of divine justice.",
+      "popularity": 1007.221,
+      "poster_path": "/5NYdSAnDVIXePrSG2dznHdiibMk.jpg",
+      "vote_average": 7.7,
+      "vote_count": 282
+    },
+    {
+      "backdrop_path": "/rkB4LyZHo1NHXFEDHl9vSD9r1lI.jpg",
+      "first_air_date": "2021-11-06",
+      "genre_ids": [
+        16,
+        10765,
+        10759,
+        18
+      ],
+      "id": 94605,
+      "name": "Arcane",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Arcane",
+      "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+      "popularity": 896.221,
+      "poster_path": "/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+      "vote_average": 9.2,
+      "vote_count": 1125
+    },
+    {
+      "backdrop_path": "/ktDJ21QQscbMNQfPpZBsNORxdDx.jpg",
+      "first_air_date": "2016-01-25",
+      "genre_ids": [
+        80,
+        10765
+      ],
+      "id": 63174,
+      "name": "Lucifer",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Lucifer",
+      "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+      "popularity": 833.98,
+      "poster_path": "/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+      "vote_average": 8.5,
+      "vote_count": 11114
+    },
+    {
+      "backdrop_path": "/gk1enrMtCVABqJd4ujVwIIeswTT.jpg",
+      "first_air_date": "2021-09-03",
+      "genre_ids": [
+        99
+      ],
+      "id": 132719,
+      "name": "Money Heist: From Tokyo to Berlin",
+      "origin_country": [
+        "ES"
+      ],
+      "original_language": "es",
+      "original_name": "La Casa de Papel: de Tokio a Berlín",
+      "overview": "The filmmakers and actors behind \"Money Heist\" characters like Tokyo and the Professor talk about the emotional and artistic process of filming Money Heist.",
+      "popularity": 549.443,
+      "poster_path": "/g0wLsOFpvK5nX5hsIAwXHrpnFLI.jpg",
+      "vote_average": 7.6,
+      "vote_count": 23
+    },
+    {
+      "backdrop_path": "/bxU79lpl8ZQAVJ72155kqWkuqMu.jpg",
+      "first_air_date": "2019-01-11",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 81356,
+      "name": "Sex Education",
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Sex Education",
+      "overview": "Inexperienced Otis channels his sex therapist mom when he teams up with rebellious Maeve to set up an underground sex therapy clinic at school.",
+      "popularity": 474.487,
+      "poster_path": "/8j12tohv1NBZNmpU93f47sAKBbw.jpg",
+      "vote_average": 8.4,
+      "vote_count": 5169
+    },
+    {
+      "backdrop_path": "/g63KmFgqkvXu6WKS23V56hqEidh.jpg",
+      "first_air_date": "2018-05-02",
+      "genre_ids": [
+        10759,
+        18
+      ],
+      "id": 77169,
+      "name": "Cobra Kai",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Cobra Kai",
+      "overview": "This Karate Kid sequel series picks up 30 years after the events of the 1984 All Valley Karate Tournament and finds Johnny Lawrence on the hunt for redemption by reopening the infamous Cobra Kai karate dojo. This reignites his old rivalry with the successful Daniel LaRusso, who has been working to maintain the balance in his life without mentor Mr. Miyagi.",
+      "popularity": 481.265,
+      "poster_path": "/yR9a9yZ1kAW0Xbl4NxQxPSMteEg.jpg",
+      "vote_average": 8.1,
+      "vote_count": 3583
+    },
+    {
+      "backdrop_path": "/hNj7EzEQyttoPBpYlLTkATnIiab.jpg",
+      "first_air_date": "2018-10-05",
+      "genre_ids": [
+        80,
+        9648,
+        18
+      ],
+      "id": 76669,
+      "name": "Elite",
+      "origin_country": [
+        "ES"
+      ],
+      "original_language": "es",
+      "original_name": "Élite",
+      "overview": "When three working class kids enroll in the most exclusive school in Spain, the clash between the wealthy and the poor students leads to tragedy.",
+      "popularity": 274.362,
+      "poster_path": "/3NTAbAiao4JLzFQw6YxP1YZppM8.jpg",
+      "vote_average": 8.2,
+      "vote_count": 7757
+    },
+    {
+      "backdrop_path": "/e92qfYRVYUL602ztyEoujUtXlS1.jpg",
+      "first_air_date": "2018-09-09",
+      "genre_ids": [
+        9648,
+        80,
+        18
+      ],
+      "id": 78191,
+      "name": "You",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "You",
+      "overview": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+      "popularity": 247.641,
+      "poster_path": "/yxIdKGEjagaLs5kMjw92kAHmopH.jpg",
+      "vote_average": 8.2,
+      "vote_count": 1757
+    },
+    {
+      "backdrop_path": "/nB8Z2lDOOSpZgTRLUVYSJ74RPof.jpg",
+      "first_air_date": "2018-04-13",
+      "genre_ids": [
+        10765,
+        10759,
+        18
+      ],
+      "id": 75758,
+      "name": "Lost in Space",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Lost in Space",
+      "overview": "After crash-landing on an alien planet, the Robinson family fights against all odds to survive and escape. But they're surrounded by hidden dangers.",
+      "popularity": 222.062,
+      "poster_path": "/y8NJnTXzb4rio9uvVYFVrXEMofU.jpg",
+      "vote_average": 7.6,
+      "vote_count": 985
+    },
+    {
+      "backdrop_path": "/9nBVkNBe4x9HKDAzxjxlIqecxCW.jpg",
+      "first_air_date": "2021-06-25",
+      "genre_ids": [
+        18
+      ],
+      "id": 126280,
+      "name": "Sex/Life",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Sex/Life",
+      "overview": "A woman's daring sexual past collides with her married-with-kids present when the bad-boy ex she can't stop fantasizing about crashes back into her life.",
+      "popularity": 232.446,
+      "poster_path": "/kfcJl5e8CRWDU7e4vX6uNABPRbS.jpg",
+      "vote_average": 7.2,
+      "vote_count": 787
+    },
+    {
+      "backdrop_path": "/cxg6CzZl7D0oJrn2425WmgtJnva.jpg",
+      "first_air_date": "2018-11-16",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 80968,
+      "name": "Narcos: Mexico",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Narcos: Mexico",
+      "overview": "See the rise of the Guadalajara Cartel as an American DEA agent learns the danger of targeting narcos in 1980s Mexico.",
+      "popularity": 233.952,
+      "poster_path": "/uYcZMiIIUv8NPebpqKbUGhf2M3y.jpg",
+      "vote_average": 7.9,
+      "vote_count": 823
+    },
+    {
+      "backdrop_path": "/yjsXtps0rw36UB8TomSjI4y4zvR.jpg",
+      "first_air_date": "2021-10-15",
+      "genre_ids": [
+        80,
+        18,
+        9648,
+        10759
+      ],
+      "id": 110356,
+      "name": "My Name",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "마이 네임",
+      "overview": "Following her father's murder, a revenge-driven woman puts her trust in a powerful crime boss — and enters the police force under his direction.",
+      "popularity": 237.121,
+      "poster_path": "/h9p1zxKzti35Aqe6xpwkP9NlG7p.jpg",
+      "vote_average": 8.4,
+      "vote_count": 291
+    },
+    {
+      "backdrop_path": "/aGULNElJVpSru19WP2pUjopPX1U.jpg",
+      "first_air_date": "2021-07-28",
+      "genre_ids": [
+        80,
+        10766
+      ],
+      "id": 128252,
+      "name": "The Snitch Cartel: Origins",
+      "origin_country": [
+        "CO"
+      ],
+      "original_language": "es",
+      "original_name": "El cartel de los sapos: El origen",
+      "overview": "In Cali during the '60s and '70s, two brothers juggle family, romance and the joint pursuit of a burning ambition: to rule Colombia's drug industry.",
+      "popularity": 245.992,
+      "poster_path": "/A17Rt6BLHno0puR1QXbsSKhBfA4.jpg",
+      "vote_average": 7.9,
+      "vote_count": 207
+    },
+    {
+      "backdrop_path": "/ToY3HnzQREeKIKLz5O9aboGDKy.jpg",
+      "first_air_date": "2020-09-18",
+      "genre_ids": [
+        16,
+        10762,
+        10759
+      ],
+      "id": 93741,
+      "name": "Jurassic World: Camp Cretaceous",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Jurassic World: Camp Cretaceous",
+      "overview": "Six teens attending an adventure camp on the opposite side of Isla Nublar must band together to survive when dinosaurs wreak havoc on the island.",
+      "popularity": 222.142,
+      "poster_path": "/nkCbCmlwjwT6QL44DqG7qE9ch8H.jpg",
+      "vote_average": 7.9,
+      "vote_count": 1425
+    },
+    {
+      "backdrop_path": "/rcA17r3hfHtRrk3Xs3hXrgGeSGT.jpg",
+      "first_air_date": "2016-07-15",
+      "genre_ids": [
+        10765,
+        9648,
+        18
+      ],
+      "id": 66732,
+      "name": "Stranger Things",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Stranger Things",
+      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "popularity": 227.419,
+      "poster_path": "/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+      "vote_average": 8.6,
+      "vote_count": 9121
+    },
+    {
+      "backdrop_path": "/3Aj7j0xHXwGntChU1VaL9seBGIe.jpg",
+      "first_air_date": "2021-09-30",
+      "genre_ids": [
+        16,
+        10759
+      ],
+      "id": 129600,
+      "name": "Baki Hanma",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "範馬刃牙",
+      "overview": "To gain the skills he needs to surpass his powerful father, Baki enters Arizona State Prison to take on the notorious inmate known as Mr. Unchained.",
+      "popularity": 220.031,
+      "poster_path": "/k3HCQALcUyxebVZcfy57BIDYXUz.jpg",
+      "vote_average": 8.1,
+      "vote_count": 44
+    },
+    {
+      "backdrop_path": "/s56eyXy8rADp5DpZknfe2HXq4u4.jpg",
+      "first_air_date": "2019-12-20",
+      "genre_ids": [
+        10765,
+        18,
+        10759
+      ],
+      "id": 71912,
+      "name": "The Witcher",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Witcher",
+      "overview": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts.",
+      "popularity": 249.889,
+      "poster_path": "/7vjaCdMw15FEbXyLQTVa04URsPm.jpg",
+      "vote_average": 8.2,
+      "vote_count": 2698
+    },
+    {
+      "backdrop_path": "/iq5L971DFW1SwLJdvl7OpPI1QeZ.jpg",
+      "first_air_date": "2021-06-17",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "id": 114868,
+      "name": "Record of Ragnarok",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "終末のワルキューレ",
+      "overview": "Before eradicating humankind from the world, the gods give them one last chance to prove themselves worthy of survival. Let the Ragnarok battles begin.",
+      "popularity": 190.442,
+      "poster_path": "/kTs2WNZOukpWdNhoRlH94pSJ3xf.jpg",
+      "vote_average": 8.7,
+      "vote_count": 895
+    }
+  ],
+  "total_pages": 67,
+  "total_results": 1338
+}
